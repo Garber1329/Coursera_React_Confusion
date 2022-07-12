@@ -20,12 +20,12 @@ const mapStateToProps = state => {
 
 class Main extends Component {
 
-  constructor(props) {
-    super(props);
-    this.state = {
+  // constructor(props) {
+  //   super(props);
+  //   this.state = {
         
-    };
-  }
+  //   };
+  // }
 
   render() {
 
